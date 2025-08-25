@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="TYPO" enabled_by_default="true" editorAttributes="TYPO">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E265" />
+          <option value="E261" />
+          <option value="E305" />
+          <option value="E302" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
